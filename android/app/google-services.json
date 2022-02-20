@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856401678054",
+    "project_id": "mlsa-blog-app",
+    "storage_bucket": "mlsa-blog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856401678054:android:1db020e287cfa191fe7527",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856401678054-0aslma41rk80tkf7obqnskhe3got0psq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blog",
+            "certificate_hash": "3edd72ecf216a0a55d1187837cbd5e5b54c700ff"
+          }
+        },
+        {
+          "client_id": "856401678054-c37a2g0a30bjb0i6vori43mp3up4mrlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZcju8Ou5Hl7M5-E71J8cpo2KYUJ05Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856401678054-c37a2g0a30bjb0i6vori43mp3up4mrlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
